@@ -1,5 +1,4 @@
 # Permalinks
-#
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 #relative_permalinks: true
@@ -7,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               艾倫．可行．行動．能行(Allen．Feasible．Action．Success)<br>
 tagline:             'Allen FAS'
-description:         'A reserved <a href="https://hcchen.github.io/Allen_FAS/" target="_blank">Allen FAS</a> A Blog  made by <a href="https://twitter.com/hcchen1113" target="_blank">@allen</a>.'
+description:         'A reserved <a href="https://hcchen.github.io/Allen_FAS/" target="_blank">Allen FAS</a>  Blog  made by <a href="https://twitter.com/hcchen1113" target="_blank">@allen</a>.'
 url:                 https://hcchen.github.io/Allen_FAS/
 baseurl:             ''
 paginate:            5
@@ -16,7 +15,11 @@ paginate:            5
 author:
   name:              Allen Chen
   url:               https://twitter.com/hcchen1113
-  email:             hcchen@ntu.edu.tw
+  email:             hsiehchang.chen@gmail.com
 
 # Custom vars
 version:             1.0.0
+
+# Jekyll plugins
+gems:
+  - jekyll-sitemap
