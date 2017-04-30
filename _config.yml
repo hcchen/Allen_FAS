@@ -9,7 +9,7 @@ tagline:             'Allen FAS'
 description:         'A reserved <a href="https://hcchen.github.io/Allen_FAS/" target="_blank">Allen FAS</a>  Blog  made by <a href="https://twitter.com/hcchen1113" target="_blank">@allen</a>.'
 url:                 https://hcchen.github.io/Allen_FAS/
 baseurl:             ''
-paginate:            5
+paginate:            6
 
 # About/contact
 author:
