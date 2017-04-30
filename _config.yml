@@ -5,18 +5,18 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               艾倫．可行．行動．能行(Allen．Feasible．Action．Success)
+tagline:             'Allen FAS'
+description:         'A reserved <a href="https://hcchen.github.io/Allen_FAS/" target="_blank">Allen FAS</a> A Blog  made by <a href="https://twitter.com/hcchen1113" target="_blank">@allen</a>.'
+url:                 https://hcchen.github.io/Allen_FAS/
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              AllenChen
+  url:               https://twitter.com/hcchen1113
+  email:             hcchen@ntu.edu.tw
 
 # Custom vars
 version:             1.0.0
