@@ -2,7 +2,10 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
+<<<<<<< HEAD
 
+=======
+>>>>>>> 76c297ec983848f06dd33c4348713dc729f49f41
 #relative_permalinks: true
 
 # Setup
