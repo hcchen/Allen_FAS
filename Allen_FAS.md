@@ -1,8 +1,7 @@
 ---
-layout: default
-title: "Allen_FAS"
-permalink: Allen_FAS.md
+layout: null
 ---
+
 #艾倫．[行](http://dict.variants.moe.edu.tw/yitia/fra/fra03699.htm)．行．行
 ##艾倫．可行．行動．能行
 ## Allen．Feasible．Action．Success
