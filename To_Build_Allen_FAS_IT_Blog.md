@@ -6,4 +6,4 @@ $ git init
 $ git checkout --orphan gh-pages
 $ baseurl: /Allen_FAS
 
-```	
+```
