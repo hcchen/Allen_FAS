@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: default
 ---
 
 #艾倫．[行](http://dict.variants.moe.edu.tw/yitia/fra/fra03699.htm)．行．行
@@ -20,4 +20,3 @@ layout: null
 ### Vanet
 ####Dr.T
 ###Dr.Farmer
-
