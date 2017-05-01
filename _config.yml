@@ -20,9 +20,9 @@ author:
 # Custom vars
 version:             1.0.0
 # Custom url
-  hr_url:            https://www.hackerrank.com/ 
-  kaggle_url:        https://www.kaggle.com/
-  leecode_url:       https://leetcode.com/
+hr_url:            https://www.hackerrank.com
+kaggle_url:        https://www.kaggle.com
+leecode_url:       https://leetcode.com
 # Jekyll plugins
 gems:
   - jekyll-sitemap
