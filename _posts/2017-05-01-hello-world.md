@@ -1,6 +1,5 @@
 ﻿---
-layout: default
-
+layout: post
 title: 你好，歡迎來到艾倫．行．行．行的世界
 ---
 
