@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: PMP 筆記
 ---
 
@@ -8,7 +8,6 @@ title: PMP 筆記
 1. Project a temporary ==endeavor== undertaken to create a unique product or service
 endeavor:an attempt to achieve a goal
 2. 
-
 
 
 ##Chapter 5 Project Scope Management
