@@ -39,10 +39,12 @@ http://download.cnet.com/XQuartz-X11/3000-2094_4-10912185.html
 P(SB) = P(S)  P(B) => Statistically independent
 P(SB) > P(S)  P(B) => Positively correlated
 P(SB) < P(S)  P(B) => Negatively correlated
+```
 ### X -> Y
 ### Support =c(X,Y)/cTotal 左右兩同時發生交易次數/總交易數
 ### cofidiance =P(X,Y)/P(X)
 ### Lift P(X,Y/P(X) * P(Y)
+
 Lift > 1 正相關 
 Lift < 1 負相關 
 Life = 1 相關
@@ -54,6 +56,7 @@ Life = 1 相關
 ## 圈圈代表離群值，比第一四分位低 1.5標準差，比第三四分位高1.5標準差
 
 https://www.dropbox.com/s/j6r6z0fj53jzqgs/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202017-04-16%2013.17.04.png?dl=0
+
 X vs. Y:
 類別/類別：卡方檢定
 類別/數值：變異數分析
@@ -72,6 +75,3 @@ X vs. Y:
 =>
 時間：星期、小時
 
-
-
-```
