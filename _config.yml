@@ -42,6 +42,7 @@ version:             1.0.0
 hr_url:            https://www.hackerrank.com
 kaggle_url:        https://www.kaggle.com
 leecode_url:       https://leetcode.com
+farmbot_url:       https://farmbot.io/
 # Jekyll plugins
 gems:
   - jekyll-sitemap
