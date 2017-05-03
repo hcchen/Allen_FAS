@@ -1,6 +1,6 @@
 ﻿---
-layout: default
-title: 你好，歡迎來到艾倫~行．行．行的世界
+ layout: post
+ title: 你好，歡迎來到艾倫~行．行．行的世界
 ---
 
 <h2>{{ page.title }}</h2>

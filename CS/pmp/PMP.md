@@ -7,8 +7,7 @@ title: PMP 筆記
 ##
 1. Project a temporary ==endeavor== undertaken to create a unique product or service
 endeavor:an attempt to achieve a goal
-2. 
-
+2. Project Management 3 important factors:Scope/Cost/Time
 
 ## Chapter 5 Project Scope Management
 ### Collect reauirement
