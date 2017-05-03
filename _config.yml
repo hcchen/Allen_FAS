@@ -10,6 +10,12 @@ atom:
   postDirs:
     - _newsletters
   defaultPostDir: _posts
+# Code Hightlight
+pygments: true 
+# 
+safe: true
+# Clear Cache to Refresh
+auto: true
 
 # Permalinks
 # Use of `relative_permalinks` ensures post links from the index work properly.
