@@ -3,14 +3,14 @@ layout: page
 title: PMP 筆記
 ---
 
-#PMP 筆記
+# PMP 筆記
 ##
 1. Project a temporary ==endeavor== undertaken to create a unique product or service
 endeavor:an attempt to achieve a goal
 2. 
 
 
-##Chapter 5 Project Scope Management
+## Chapter 5 Project Scope Management
 ### Collect reauirement
 Group cerativity techniques:
 1. Start gathering requirements by using the **mind mapping technique**. 
