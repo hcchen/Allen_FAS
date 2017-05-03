@@ -1,3 +1,9 @@
+# Build settings source: http://victorchee.github.io/blog/build-blog-with-github-pages/
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data", "footnotes","space_after_headers","highlight","underline","quote","lax_spacing"]
+
+
 # For Atom build
 atom:
   buildCommand:
