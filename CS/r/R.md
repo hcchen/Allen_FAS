@@ -2,12 +2,14 @@
 # R 筆記@20170415/16
 
 ## 分群實體
+
 ```
 iris = scale(iris[,1:4],center = T , scale = T)
 ```
 ### 分幾群比較好
 
 ## data.Normalization 
+
 ```
 data.Normalization (x,type="n0",normalization="column")
 ```
