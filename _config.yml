@@ -11,7 +11,7 @@ atom:
     - _newsletters
   defaultPostDir: _posts
 # Code Hightlight
-pygments: true 
+#pygments: true 
 # 禁用 自定義插件
 safe: false
 # Clear Cache to Refresh
