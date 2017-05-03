@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PMP 筆記"
-permalink: /CS/pmp/PMP.md
+permalink: /Allen_FAS/CS/pmp/
 ---
 
 # PMP 筆記
