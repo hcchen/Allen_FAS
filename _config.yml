@@ -12,8 +12,8 @@ atom:
   defaultPostDir: _posts
 # Code Hightlight
 pygments: true 
-# 
-safe: true
+# 禁用 自定義插件
+safe: false
 # Clear Cache to Refresh
 auto: true
 
