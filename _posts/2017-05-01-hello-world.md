@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "Hello World"
+title: Example content
 ---
 
 <h2>{{ page.title }}</h2>
