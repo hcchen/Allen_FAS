@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: default
 title: "PMP 筆記"
 permalink: /CS/pmp/PMP.md
 ---
