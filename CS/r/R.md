@@ -1,7 +1,3 @@
----
-layout: default
-title: R 筆記
----
 
 # R 筆記@20170415/16
 

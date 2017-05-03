@@ -1,7 +1,3 @@
----
-layout: page
-title: Better Allen
----
 
 # Better Allen
 ## PMP

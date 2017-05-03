@@ -1,7 +1,3 @@
----
-layout: default
-title: PMP 筆記
----
 
 # PMP 筆記
 ##

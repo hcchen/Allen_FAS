@@ -1,9 +1,3 @@
----
-layout: default
-title: Allen FAS
----
-
-
 # 艾倫．[行](http://dict.variants.moe.edu.tw/yitia/fra/fra03699.htm)．行．行
 ## 艾倫．可行．行動．能行
 ## Allen．Feasible．Action．Success
