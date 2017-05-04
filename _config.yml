@@ -1,15 +1,16 @@
 # For Atom build
-atom:
-  buildCommand:
-    - jekyll
-    - build
-    - --option
-    - --this
-  buildEnv:
-    JEKYLL_ENV: development
-  postDirs:
-    - _newsletters
-  defaultPostDir: _posts
+# atom:
+#   buildCommand:
+#     - jekyll
+#     - build
+#     - --option
+#     - --this
+#   buildEnv:
+#     JEKYLL_ENV: development
+#   postDirs:
+#     - _newsletters
+#   defaultPostDir: _posts
+
 # Code Hightlight
 #pygments: true 
 # 禁用 自定義插件
