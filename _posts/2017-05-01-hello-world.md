@@ -1,10 +1,7 @@
 ﻿---
-layout: post
+layout: page
 title: Hello World
 ---
-
-
-
 
 <h2>{{ page.title }}</h2>
 <p>Hello World</p>
