@@ -47,3 +47,13 @@ farmbot_url:       https://farmbot.io/
 # Jekyll plugins
 gems:
   - jekyll-sitemap
+# My custom Collections
+collections:
+  - _data
+  output: true
+defaults:
+  - scope:
+      path: ""
+      type: - _data
+    values:
+      layout: page
