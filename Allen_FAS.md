@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Allen FAS"
 permalink: Allen_FAS.md
 ---
