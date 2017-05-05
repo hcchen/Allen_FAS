@@ -53,9 +53,9 @@ collections:
     data:
         output: false
         #permalink: /data/:path/
-defaults:
-  - scope:
-      path: ""
-      type: data
-    values:
-      layout: page
+# defaults:
+#   - scope:
+#       path: ""
+#       type: data
+#     values:
+#       layout: page
