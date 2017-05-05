@@ -51,5 +51,11 @@ gems:
 # My custom Collections
 collections:
     data:
-        output: true
-        permalink: /data/:path/
+        output: false
+        #permalink: /data/:path/
+defaults:
+  - scope:
+      path: ""
+      type: data
+    values:
+      layout: page
