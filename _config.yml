@@ -14,7 +14,7 @@
 # Code Hightlight
 #pygments: true 
 # 禁用 自定義插件
-safe: false
+# safe: false
 # Clear Cache to Refresh
 auto: true
 
