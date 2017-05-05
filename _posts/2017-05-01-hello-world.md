@@ -1,9 +1,9 @@
 ﻿---
 layout: post
 title: Hello World
-- hello
-- x7x8
-summary: A hello world page.
+#- hello
+#- x7x8
+#summary: A hello world page.
 ---
 
 <h2>{{ page.title }}</h2>
