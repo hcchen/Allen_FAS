@@ -1,10 +1,9 @@
 ﻿---
 layout: post
 title: Hello World
-categories: x7x8
-tags: 
 - hello
 - x7x8
+summary: A hello world page.
 ---
 
 <h2>{{ page.title }}</h2>
