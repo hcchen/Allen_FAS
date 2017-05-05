@@ -12,7 +12,7 @@
 #   defaultPostDir: _posts
 
 # Code Hightlight
-#pygments: true 
+#pygments: true
 # 禁用 自定義插件
 # safe: false
 # Clear Cache to Refresh
@@ -48,6 +48,7 @@ farmbot_url:       https://farmbot.io/
 # Jekyll plugins
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
 # My custom Collections
 collections:
     data:
