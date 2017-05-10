@@ -52,8 +52,8 @@ gems:
 # My custom Collections
 collections:
     data:
-        output: false
-        #permalink: /data/:path/
+        output: true
+        permalink: /data/:path/
 # defaults:
 #   - scope:
 #       path: ""
