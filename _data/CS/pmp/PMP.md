@@ -6,13 +6,29 @@ permalink: /data/cs/pmp/PMP.md
 
 # PMP 筆記
 
-##
+## General 
+### PMP Charts
+
+### The 5 Process Groups
+
+#### Initiating
+These processes help you define a new piece of work – either a complete new project or the phase you are about to begin. They ensure you have authority to proceed.
+#### Planning
+These processes help you define objectives and scope out the work to be done. They also encompass all the work around planning and scheduling tasks. Again, they can cover a complete project or just the phase you are working on right now. Or you might be closing one phase and planning the next in parallel.
+#### Executing
+You do these processes as you carry out your project tasks. This is the ‘delivery’ part of project management, where the main activity happens and you create the products.
+#### Monitoring and Controlling
+These processes let you track the work that is being done, review and report on it. They also cover what happens when you find out the project isn’t following the agreed plan, so change management falls into this Process Group. You’ll run these processes alongside those in the Executing Group (mainly, but alongside the other Groups too) so you monitor as you go.
+#### Closing
+Finally, these processes let you finalize all the tasks in the other Groups when you get to the point to close the project or phase. 
+
 
 1. Project a temporary ==endeavor== undertaken to create a unique product or service
 endeavor:an attempt to achieve a goal
 2. Project Management 3 important factors:Scope/Cost/Time
+## 1.Project Integration Management
 
-## Chapter 5 Project Scope Management
+## 2.Project Scope Management
 ### Collect reauirement
 Group cerativity techniques:
 1. Start gathering requirements by using the **mind mapping technique**. 
@@ -28,3 +44,20 @@ Allow anyone in the workshop to generate an unstructured requirements list for e
 5. Close the process by running several rounds of independent feedback through the **Delphi technique**. Let any individual or group revise the list of requirements. Share an anonymous outcome from each review round and continue with further rounds, keeping in mind the objective to reach consensus and convergence. 
 [Group Creativity Techniques to Collect Requirements]
 (https://www.projectmanagement.com/blog-post/8359/Group-Creativity-Techniques-to-Collect-Requirements-)
+
+## 3.Project Time Management
+
+## 4.Project Cost Management
+
+## 5.Project Quality Management
+
+## 6.Project Human Resource Management
+
+## 7.Project Communications Management
+
+## 8.Project Risk Management
+
+## 9.Project Procurement Management
+
+## 10.Project Stakeholder Management.
+
