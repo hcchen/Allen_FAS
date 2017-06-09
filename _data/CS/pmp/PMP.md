@@ -45,6 +45,11 @@ Allow anyone in the workshop to generate an unstructured requirements list for e
 [Group Creativity Techniques to Collect Requirements]
 (https://www.projectmanagement.com/blog-post/8359/Group-Creativity-Techniques-to-Collect-Requirements-)
 
+### Three types of project life cycles
+1.Predictive (also known as fully plan-driven)
+2.Iterative and Incremental
+3.Adaptive (also known as change-driven or agile)
+
 ## 3.Project Time Management
 
 ## 4.Project Cost Management
