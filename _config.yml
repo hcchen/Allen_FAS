@@ -23,6 +23,7 @@ auto: true
 # /:categories/:year/:month/:day/:title/
 permalink:           pretty
 #relative_permalinks: true
+relative_permalinks: true
 
 # Setup
 title:               艾倫．可行．行動．能行(Allen．Feasible．Action．Success)<br>
