@@ -21,7 +21,7 @@
 
 ##Day 6  AVCSS && IOT
 
-##Day 7 CVOS &&ＩＯＴ
+##Day 7 CVOS && IOT
 
 ##Day 8　EMS && IOT
 
