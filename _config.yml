@@ -61,3 +61,5 @@ collections:
 #       type: data
 #     values:
 #       layout: page
+
+theme: jekyll-theme-slate
