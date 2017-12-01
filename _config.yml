@@ -54,7 +54,6 @@ gems:
 # My custom Collections
 collections:
     - data
-
 #    data:
 #        output: true
 #        permalink: /data/:path/
