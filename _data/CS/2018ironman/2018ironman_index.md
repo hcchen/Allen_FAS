@@ -11,7 +11,7 @@
 ### 資訊管理服務(IMS)
 ### 弱勢使用者保護服務(VIPS)
 
-## Day 2 IOT介紹
+## Day 2  IOT介紹
 
 ## Day 3 APTS && IOT
 
