@@ -53,15 +53,17 @@ gems:
 
 # My custom Collections
 collections:
-    data:
-        output: true
-        permalink: /data/:path/
+    - data
 
-    defaults:
-      - scope:
-        path: ""
-        type: data
-      values:
-        layout: page
+#    data:
+#        output: true
+#        permalink: /data/:path/
+
+#    defaults:
+#      - scope:
+#        path: ""
+#        type: data
+#      values:
+#        layout: page
 
 theme: jekyll-theme-cayman
