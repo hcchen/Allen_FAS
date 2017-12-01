@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: "Allen FAS"
-permalink: Allen_FAS.md
+<!-- permalink: Allen_FAS.md -->
 ---
 
 # 艾倫．[行](http://dict.variants.moe.edu.tw/yitia/fra/fra03699.htm)．行．行
