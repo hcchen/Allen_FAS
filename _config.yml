@@ -50,7 +50,8 @@ farmbot_url:       https://farmbot.io/
 gems:
   - jekyll-sitemap
   - jekyll-paginate
-
+# Collections Dir
+collections_dir: data
 # My custom Collections
 collections:
     - data
