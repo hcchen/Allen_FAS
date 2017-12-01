@@ -50,16 +50,18 @@ farmbot_url:       https://farmbot.io/
 gems:
   - jekyll-sitemap
   - jekyll-paginate
+
 # My custom Collections
 collections:
     data:
         output: true
         permalink: /data/:path/
-# defaults:
-#   - scope:
-#       path: ""
-#       type: data
-#     values:
-#       layout: page
+
+    defaults:
+      - scope:
+        path: ""
+        type: data
+      values:
+        layout: page
 
 theme: jekyll-theme-cayman
