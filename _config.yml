@@ -75,7 +75,7 @@ defaults:
   -
     scope:
       path: "pmp"
-      type: "data"
+      type: "pmp"
     values:
       layout: "default"
       category: "pmp"
