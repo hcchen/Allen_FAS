@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "PMP 筆記"
-permalink: /data//PMP.md
+permalink: /pmp/PMP.md
 ---
 
 # PMP 筆記
