@@ -51,12 +51,14 @@ gems:
   - jekyll-sitemap
   - jekyll-paginate
 # Collections Dir
-collections_dir: data
+#collections_dir: data
 # My custom Collections
 collections:
-    - data
-#    data:
-#        output: true
+#    - data
+    data:
+        output: true
+        relative_directory: pmp
+        directory: /data/cs/pmp
 #        permalink: /data/:path/
 
 #    defaults:
