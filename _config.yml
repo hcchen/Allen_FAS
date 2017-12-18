@@ -75,10 +75,10 @@ defaults:
   -
     scope:
       path: 'pmp'
-      type: 'pmp'
+      #type: 'pmp'
     values:
       layout: 'default'
-      category: 'pmp'
-      author: 'Allen Chen'
+      #category: 'pmp'
+      #author: 'Allen Chen'
 
 theme: jekyll-theme-cayman
