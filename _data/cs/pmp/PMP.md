@@ -164,7 +164,7 @@ R( Primary Responsibility), I( Keep Informed), S( Support, active involvement), 
 <hr>
 
 ## 3.Project Time Management
-### Activity Duration = (EF-ES)+1
+### Activity Duration = (EF-ES)+1 (活動工時計算)
 ES:Early Start
 EF:Early Finished
 
