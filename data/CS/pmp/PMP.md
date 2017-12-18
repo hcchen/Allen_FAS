@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "PMP 筆記"
-permalink: /pmp/PMP.md
+permalink: /data/cs/pmp/PMP.md
 ---
 
 # PMP 筆記
@@ -294,5 +294,6 @@ source:https://www.izenbridge.com/blog/pmp-exam-point-of-total-assumption/
 ### Halo-Effect(月暈效應)：一個人在某方面很傑出，以為另一方面也很傑出，實際上並不一定
 - Have you ever seen someone within your organization, being put into a position, just because they had experience, and success in one area, so the folks upstairs assumed this success would transfer into another job or role within an organization, only to watch a disaster unfold before your very eyes? If you said “yes” then, you have seen the effects of the “Halo Effect” in action.
 - Generalization from the perception of one outstanding personality trait to an overly favorable evaluation of the whole personality (Merriam-Webster)
+source: https://project-management.com/the-halo-effect-and-project-success/
 ### Stakeholder Map
 ![Map](pic/10_stackholder_map.jpg)

@@ -55,10 +55,10 @@ gems:
 # My custom Collections
 collections:
 #    - data
-    data:
-        output: true
-        relative_directory: pmp
-        directory: /data/cs/pmp
+#    data:
+#        output: true
+#        relative_directory: pmp
+#        directory: /data/cs/pmp
 #        permalink: /data/:path/
 
 #    defaults:
@@ -67,5 +67,18 @@ collections:
 #        type: data
 #      values:
 #        layout: page
+
+collections:
+  - data:
+    output: true
+defaults:
+  -
+    scope:
+      path: "data"
+      type: "data" # 你的站点里的一个集合，复数形式
+    values:
+      layout: "default"
+      category: "project"
+      author: "Allen Chen"
 
 theme: jekyll-theme-cayman
