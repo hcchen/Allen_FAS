@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "PMP 筆記"
-permalink: /data/cs/pmp/PMP.md
 ---
 
 # PMP 筆記
