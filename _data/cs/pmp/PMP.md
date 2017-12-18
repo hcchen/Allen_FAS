@@ -148,6 +148,12 @@ The primary difference between focus groups and facilitated workshops are that f
 9. Benchmarking - 標杆對照將實際或計劃的做法（如流程和操作過程）與其他可比組織的做法進行比較，以便識別最佳實踐，形成改進意見，並為績效考核提供依據。標杆對照所采用的可比組織可以是內部的，也可以是外部的。
 10. Context Diagrams
 11. Document Analysis
+12. 責任分派矩陣(Responsibility Assignment Matrix)：組織成員對
+工作的權責
+R( Primary Responsibility), I( Keep Informed), S( Support, active involvement), C (Consult or provide advice)
+或RACI R=Responsible （負責）A=Accountable （承擔） C=Consult（諮詢） I=Inform（分享）
+
+
 
 
 ### Three types of project life cycles

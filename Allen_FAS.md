@@ -5,17 +5,21 @@
 ## 艾倫．可行．行動．能行
 ## Allen．Feasible．Action．Success
 ### Data Science on Transportation
+
 #### SMACK(Spark, Mesos, Akka,  Cassandra and Kafka)
 ##### Spark
 ##### Mesos
 ##### Akka
 ##### Cassandra
 ##### Kafka
+
 ### CS Programming
 #### Scala
 #### [HackerRank](https://www.hackerrank.com/)
 #### [Kaggle](https://www.kaggle.com/)
 #### [LeeCode](https://leetcode.com/)
+
 ### Vanet
 #### Dr.T
+
 ### Dr.Farmer
