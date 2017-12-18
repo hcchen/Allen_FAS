@@ -53,7 +53,7 @@ gems:
 # Collections Dir
 #collections_dir: data
 # My custom Collections
-collections:
+#collections:
 #    - data
 #    data:
 #        output: true
@@ -75,10 +75,10 @@ defaults:
   -
     scope:
       path: 'pmp'
-      #type: 'pmp'
+      type: 'pmp'
     values:
       layout: 'default'
-      #category: 'pmp'
-      #author: 'Allen Chen'
+      category: 'pmp'
+      author: 'Allen Chen'
 
 theme: jekyll-theme-cayman
