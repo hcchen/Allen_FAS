@@ -6,7 +6,7 @@ permalink: /data/cs/pmp/PMP.md
 
 # PMP 筆記
 
-## General 
+## General
 ### PMP Charts
 
 ### The 5 Process Groups
@@ -20,7 +20,7 @@ You do these processes as you carry out your project tasks. This is the ‘deliv
 #### Monitoring and Controlling
 These processes let you track the work that is being done, review and report on it. They also cover what happens when you find out the project isn’t following the agreed plan, so change management falls into this Process Group. You’ll run these processes alongside those in the Executing Group (mainly, but alongside the other Groups too) so you monitor as you go.
 #### Closing
-Finally, these processes let you finalize all the tasks in the other Groups when you get to the point to close the project or phase. 
+Finally, these processes let you finalize all the tasks in the other Groups when you get to the point to close the project or phase.
 ##### Close Type of Project Termination
 1.Termination by integration and termination by
 addition
@@ -42,10 +42,10 @@ used as input for another project/production
 ## 1.Project Integration Management
 
 ### SOW
-The project statement of work (SOW) is a narrative(敘述) description of products, services, or results to be delivered by a project. 
+The project statement of work (SOW) is a narrative(敘述) description of products, services, or results to be delivered by a project.
 The SOW references the following:
 1. Business need
-- An organization's business need may be based on a market demand, technological advance, legal requirement, government regulation, or environmental consideration. 
+- An organization's business need may be based on a market demand, technological advance, legal requirement, government regulation, or environmental consideration.
 Typically, the business need and the cost-benefit analysis are contained in the business case to justify the project.
 2. Product scope description
 - The product scope description documents the characteristics of the product, service, or results that the project will be undertaken to create. The description should also document the relationship between the products, services, or results being created and the business need that the project will address.
@@ -53,12 +53,12 @@ Typically, the business need and the cost-benefit analysis are contained in the 
 - The strategic plan documents the organization's strategic vision, goals, and objectives and may contain a high-level mission statement.
 
 ### Develop Project Charter
-Develop Project Charter is the process of developing a document that formally authorizes the existence of a project and provides the project manager with the authority to apply organizational resources to project activities. 
+Develop Project Charter is the process of developing a document that formally authorizes the existence of a project and provides the project manager with the authority to apply organizational resources to project activities.
 
-### Business Case (商業論證) 
-The business case describes the necessary information from a business standpoint to determine whether or not the project is worth the required investment. 
-It is commonly used for decision making by managers or executives above the project level. 
-The business need and the cost-benefit analysis are contained in the business case to justify and establish boundaries for the project. 
+### Business Case (商業論證)
+The business case describes the necessary information from a business standpoint to determine whether or not the project is worth the required investment.
+It is commonly used for decision making by managers or executives above the project level.
+The business need and the cost-benefit analysis are contained in the business case to justify and establish boundaries for the project.
 The business case is created as a result of one or more of the following:
 1. Market demand (e.g., a car company authorizing a project to build more fuel-efficient cars in response to gasoline shortages),
 2. Organizational need (e.g., due to high overhead costs a company may combine staff functions and streamline processes to reduce costs.),
@@ -69,13 +69,13 @@ The business case is created as a result of one or more of the following:
 7. Social need (e.g., a nongovernmental organization in a developing country authorizing a project to provide potable water systems, latrines, and sanitation education to communities suffering from high rates of cholera).
 
 ### Enterprise Environmental Factors(EEF)
-The enterprise environmental factors that can influence the Develop Project Charter process include, but are not limited to: 
+The enterprise environmental factors that can influence the Develop Project Charter process include, but are not limited to:
 1. Governmental standards, industry standards, or regulations (e.g. codes of conduct, quality standards, or worker protection standards),
 2. Organizational culture and structure, and
 3. Marketplace conditions.
 
 ### Organizational Process Assets(OPA)
-The organizational process assets that can influence the Develop Project Charter process include, but are not limited to: 
+The organizational process assets that can influence the Develop Project Charter process include, but are not limited to:
 1. Organizational standard processes, policies, and process definitions,
 2. Templates (e.g., project charter template), and
 3. Historical information and lessons learned knowledge base (e.g., projects, records, and documents; all project closure information and documentation; information about both the results of previous project selection decisions and previous project performance information; and information from the risk management activity).
@@ -83,46 +83,46 @@ The organizational process assets that can influence the Develop Project Charter
 ### Develop Project Management Plan
 - Develop Project Management Plan is the process of defining, preparing, and coordinating all subsidiary plans and integrating them into a comprehensive project management plan.
 - The project management plan defines how the project is executed, monitored and controlled, and closed.
-- This process results in a project management plan that is progressively elaborated by updates, and controlled and approved through the Perform Integrated Change Control process. 
+- This process results in a project management plan that is progressively elaborated by updates, and controlled and approved through the Perform Integrated Change Control process.
 - Subsidiary management plans from each knowledge area:
 1. Project scope management plan
 2. Schedule management plan
 3. Cost management plan
 4. Quality management plan
 5. Process improvement plan
-6. Staffing management plan 
-7. Communication management plan 
-8. Risk management plan 
+6. Staffing management plan
+7. Communication management plan
+8. Risk management plan
 9. Procurement management plan
-10. Stakeholder management plan 
+10. Stakeholder management plan
 
 - Other components, such as:
 1. Milestone list
 2. Resource calendar
 3. Schedule baseline
-4. Cost baseline 
-5. Quality baseline 
+4. Cost baseline
+5. Quality baseline
 6. Risk register
 
 <hr>
 ## 2.Project Scope Management
 ### Collect reauirement
 Group cerativity techniques:
-1. Start gathering requirements by using the **mind mapping technique**. 
-Start with a topic, an issue or an area that you want to collect requirements for and develop ideas around it. Group the ideas visually, as a mind map, by writing down each idea and drawing how it relates to the initial topic. Ideally, you let anyone in the workshop create his or her own mind map. 
+1. Start gathering requirements by using the **mind mapping technique**.
+Start with a topic, an issue or an area that you want to collect requirements for and develop ideas around it. Group the ideas visually, as a mind map, by writing down each idea and drawing how it relates to the initial topic. Ideally, you let anyone in the workshop create his or her own mind map.
 
-2. Continue the process with a **brainstorming** session. 
-Allow anyone in the workshop to generate an unstructured requirements list for each idea captured on the mind map. To ensure that the brainstorming remains focused on the initial topic, lay basic ground rules and let anyone freely generate fresh ideas and requirements on the topic. 
+2. Continue the process with a **brainstorming** session.
+Allow anyone in the workshop to generate an unstructured requirements list for each idea captured on the mind map. To ensure that the brainstorming remains focused on the initial topic, lay basic ground rules and let anyone freely generate fresh ideas and requirements on the topic.
 
-3. Use the list of unstructured ideas and requirements to build an **affinity diagram**, where your ideas are organized into groups based on their natural relationship. Let anyone in the workshop participate in organizing the items in the most natural group they can. 
+3. Use the list of unstructured ideas and requirements to build an **affinity diagram**, where your ideas are organized into groups based on their natural relationship. Let anyone in the workshop participate in organizing the items in the most natural group they can.
 
-4. Identify the most important requirements by applying the **nominal group technique**. Allow each member or group in the workshop to identify which requirements are the most important for him or her. Rank each requirement on the affinity diagram with a priority: low, medium, high or from one to five. To avoid conflicts, facilitate an anonymous priority appraisal and ranking. Finally, tally the results and identify the most important requirements. 
+4. Identify the most important requirements by applying the **nominal group technique**. Allow each member or group in the workshop to identify which requirements are the most important for him or her. Rank each requirement on the affinity diagram with a priority: low, medium, high or from one to five. To avoid conflicts, facilitate an anonymous priority appraisal and ranking. Finally, tally the results and identify the most important requirements.
 
-5. Close the process by running several rounds of independent feedback through the **Delphi technique**. Let any individual or group revise the list of requirements. Share an anonymous outcome from each review round and continue with further rounds, keeping in mind the objective to reach consensus and convergence. 
+5. Close the process by running several rounds of independent feedback through the **Delphi technique**. Let any individual or group revise the list of requirements. Share an anonymous outcome from each review round and continue with further rounds, keeping in mind the objective to reach consensus and convergence.
 [Group Creativity Techniques to Collect Requirements]
 (https://www.projectmanagement.com/blog-post/8359/Group-Creativity-Techniques-to-Collect-Requirements-)
-### Collect Requirements: 
-Collect Requirements is the process of determining, documenting, and managing stakeholder needs and 
+### Collect Requirements:
+Collect Requirements is the process of determining, documenting, and managing stakeholder needs and
 requirements to meet project objectives. The key benefit of this process is that it provides the basis for defining and managing the project scope including product scope.
 
 Tools and Techniques:
@@ -173,7 +173,7 @@ EF:Early Finished
 ## 4.Project Cost Management
 ### Backlog
 
-A backlog is a high-level list of everything that the team needs to work on. It is therefore the “What” that needs to be accomplished, sorted by importance.  The backlog is used in the release and iteration (sprint) planning sessions as the source of features and work to draw from and plan for completion within the time period. 
+A backlog is a high-level list of everything that the team needs to work on. It is therefore the “What” that needs to be accomplished, sorted by importance.  The backlog is used in the release and iteration (sprint) planning sessions as the source of features and work to draw from and plan for completion within the time period.
 
 <hr>
 
@@ -206,7 +206,7 @@ https://pmstudycircle.com/2013/10/work-performance-data-wpd-and-work-performance
 #### Conflict Mgmt.
  [5 tech]-(http://smallbusiness.chron.com/5-conflict-management-strategies-16131.html)
  - Accommodating(適應策略)
-  The accommodating strategy essentially entails giving the opposing side what it wants. 
+  The accommodating strategy essentially entails giving the opposing side what it wants.
  - Avoiding(避免策略)
  	The avoidance strategy seeks to put off conflict indefinitely
  - Collaborating(協同合作策略)
@@ -218,7 +218,7 @@ https://pmstudycircle.com/2013/10/work-performance-data-wpd-and-work-performance
 <hr>
 
 ## 7.Project Communications Management
-### Change Log, Issue log & Change Request 
+### Change Log, Issue log & Change Request
 #### 1. If we want any change, we raise change request but after a change request is approved or rejected, result is documented in change log.
 Change request is the formal request made to the CCB to approve any changes from the approved plan.
 Once the request is made to the CCB it will be updated in the change log document even if it is approved or rejected for future tracking purpose(with the details).
@@ -233,7 +233,7 @@ In simple terms change log is the document for tracking the change requests.
 <hr>
 
 ## 8.Project Risk Management
-### Workarounds 
+### Workarounds
 - workarounds are responses that were not initially planned, but are required to deal with emerging risks that were previously unidentified or accepted passively.(解決辦法是最初沒有計劃的回應，但需要處理以前不明或被動被接受的新興風險。)
 - workarounds are responses to any unidentified risks that occur during your project execution. It also covers the response to risks that you have identified but did not make a plan to manage or accepted passively.
 - workarounds are responses to unidentified risks or passively accepted risks if they occur.
@@ -263,7 +263,7 @@ source: http://blog.xuite.net/upim/twblog/126779167
 ###Alternative dispute resolution(ADR):替代性糾紛解決(不是 litigation訴訟，訴訟是最後解決手段)
 當爭議無法透過直接協商談判解決時，運用合約之 ADR來替代訴訟處理，包括調整及仲裁
 
-Arbitration :仲裁 
+Arbitration :仲裁
 Conciliation :調解
 Mediation :調解
 Negotiation :談判
@@ -273,7 +273,7 @@ Dispute resolution :爭議解決http://news.tvbs.com.tw/life/808705
 Lawyer-supported mediation :律師支持的調解
 Party-directed mediation :黨派調解
 Restorative justice:恢復正義
-### PTA (the Point of total assumption)  
+### PTA (the Point of total assumption)
 PTA = (Ceiling Price – Target Price) / Buyer’s Share Ration + Target Cost
 PTA =[(CP-TP)/SR ]+TC
 SR: Share Rario(Custemer Cost Overrun Sharing Ratio )
@@ -291,8 +291,8 @@ source:https://www.izenbridge.com/blog/pmp-exam-point-of-total-assumption/
 <hr>
 <hr>
 
-### Halo-Effect
-- Have you ever seen someone within your organization, being put into a position, just because they had experience, and success in one area, so the folks upstairs assumed this success would transfer into another job or role within an organization, only to watch a disaster unfold before your very eyes? If you said “yes” then, you have seen the effects of the “Halo Effect” in action. 
+### Halo-Effect(
+- Have you ever seen someone within your organization, being put into a position, just because they had experience, and success in one area, so the folks upstairs assumed this success would transfer into another job or role within an organization, only to watch a disaster unfold before your very eyes? If you said “yes” then, you have seen the effects of the “Halo Effect” in action.
 - Generalization from the perception of one outstanding personality trait to an overly favorable evaluation of the whole personality (Merriam-Webster)
 ### Stakeholder Map
 ![Map](pic/10_stackholder_map.jpg)
