@@ -75,10 +75,10 @@ defaults:
   -
     scope:
       path: "data"
-      type: "data" # 你的站点里的一个集合，复数形式
+      type: "data"
     values:
       layout: "default"
-      category: "project"
+      category: "data"
       author: "Allen Chen"
 
 theme: jekyll-theme-cayman
