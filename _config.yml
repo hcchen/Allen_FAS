@@ -74,11 +74,11 @@ collections:
 defaults:
   -
     scope:
-      path: "data"
+      path: "pmp"
       type: "data"
     values:
       layout: "default"
-      category: "data"
+      category: "pmp"
       author: "Allen Chen"
 
 theme: jekyll-theme-cayman
