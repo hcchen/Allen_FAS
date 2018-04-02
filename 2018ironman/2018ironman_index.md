@@ -6,7 +6,7 @@
 先進交通管理服務(ATMS)
 先進車輛控制安全服務(AVCSS)
 商車營運服務(CVOS)
-緊急事故支援系統(EMS)
+緊急事故支援服務(EMS)
 電子收付費服務(EPS)
 資訊管理服務(IMS)
 弱勢使用者保護服務(VIPS)
@@ -21,15 +21,15 @@
 
 ##Day 6  AVCSS && IOT
 
-##Day 7 CVOS && IOT
+##Day 7 Day07-當運輸遇見IOT-商車營運服務(CVOS) & IOT
 
-##Day 8　EMS && IOT
+##Day 8　Day08-當運輸遇見IOT-緊急事故支援服務(EMS) & IOT
 
-##Day 9  EPS && IOT
+##Day 9  Day09-當運輸遇見IOT-電子收付費服務(EPS) & IOT
 
-##Day 10 IMS && IOT
+##Day 10 Day10-當運輸遇見IOT-資訊管理服務(IMS) & IOT
 
-##Day 11 VIPS && IOT
+##Day 11 Day11-當運輸遇見IOT-弱勢使用者保護服務(VIPS) & IOT
 
 ##Day 12  V2V
 

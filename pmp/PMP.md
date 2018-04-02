@@ -21,17 +21,19 @@ These processes let you track the work that is being done, review and report on 
 #### Closing
 Finally, these processes let you finalize all the tasks in the other Groups when you get to the point to close the project or phase.
 ##### Close Type of Project Termination
-1.Termination by integration and termination by
-addition
+1.Termination by integration:deploy the people to other project 
+2.Termination by addition :project closed beco's involve the ongoing operation
 - Successful cases: project outputs integrated and/or
 used as input for another project/production
+3.Termination by starvation:Project ends because resources run out.
 
-2.Termination by starvation
-- Project ends because resources run out.
-
-3.Termination by extinction
+4.Termination by extinction(最好的情形/專案結案及客戶同意結案)
+- Termination by complete sucessful and project is accepted by customer
 - Termination by management because the project failed
 (objectives not met, superseded, not profitable)
+
+##### kill points
+Reviews conducted at the end of the project phase on the key deliverables and project performance, to determine approval for continuance into the next phase and corrective actions, are called 「kill points」, 「stage gates」 or 「phase exits」. 
 
 
 ##### 1. Project a temporary ==endeavor== undertaken to create a unique product or service (endeavor:an attempt to achieve a goal)
@@ -190,19 +192,55 @@ A backlog is a high-level list of everything that the team needs to work on. It 
 - 7 consecutive data points in a row trending up or down (crossing the mean).
 
 ### Work Performance Data(WPD) vs Work Performance Information(WPI)
-- WPD:As per the PMBOK Guide, the work performance data is “the raw observations and measurements identified during activities performed to carry out the project work; e.g. actual cost, actual duration, and percent of work physically completed.”
-- WPI:As per the PMBOK Guide, the work performance information is “the performance data collected from various controlling processes, analyzed in context and integrated based on relationships across areas; e.g. status of deliverables, and forecasted estimates to complete, etc.”
+- WPD(專案目前狀況：目前花費成本、完成百分比及實際工時花費):As per the PMBOK Guide, the work performance data is “the raw observations and measurements identified during activities performed to carry out the project work; e.g. actual cost, actual duration, and percent of work physically completed.”
 
-- Work performance data is the “as of now” status of the project status, it provides the current status of the project, and work performance information is a comparison between the actual performance with the planned performance.
+- WPI(專案規劃和實際之比較資訊):As per the PMBOK Guide, the work performance information is “**the performance data collected from various controlling processes**, analyzed in context and integrated based on relationships across areas; e.g. status of deliverables, and forecasted estimates to complete, etc.”
+
+- - -
+
+Now let’s find the Work Performance Information in the PMBOK Guide:  (IOC=> Info/Output of Control)
+
+1. Input to Monitor and Control Project Work(MCPW)
+2. Output of the Validate Scope
+3. Output of the Control Scope
+4. Output of the Control Schedule
+5. Output of the Control Costs
+6. Output of the Control Quality
+7. Output of the Control Communications
+8. Output of the Control Risks
+9. Output of the Control Procurements
+10. Output of the Control Stakeholder Engagement
+11. Output of the Direct and Manage Project Work(DMPW)
+CIO => Control Information  Output
+
+You can see that the work performance information is an output of various controlling processes, and input to Monitor and Control Project Work where it is used to generate the performance reports.
+- - -
+
+
+- Work performance data is the **“ as of now”** status of the project status, it provides the current status of the project, and **work performance information(WPI) is a comparison between the actual performance with the planned performance**.
 - Examples of work performance data are the actual cost spent, actual time elapsed, etc. Examples of work performance information are Cost Variance, Schedule Variance, Cost Performance Index, and Schedule Performance Index, etc.
-https://pmstudycircle.com/2013/10/work-performance-data-wpd-and-work-performance-information-wpi/
+資料來源：https://pmstudycircle.com/2013/10/work-performance-data-wpd-and-work-performance-information-wpi/
 
+Work Performance Data is raw data of the observations of your project,(current project statusex :EV/AC etc) 
+and the Work Performance Information is the comparison between the actual data and the planned data.
+These two are the backbone to your performance report and are very important communication tools. This data will help you monitor project progress and compare with the planned progress. They also help you in forecasting, and you can take corrective and preventive action if needed.
+
+### Work performance report(WPR)
+Performance reports are now an output of the Monitor & Control Project Work (MCPW)process, and input to the following processes:
+
+Perform Integrated Change Control(PICC)
+Manage Project Team
+Manage Communication
+Control Risks
+Control Procurement
 <hr>
+
 
 ## 6.Project Human Resource Management
 ### Resource Calendar
 - Resource Calendar indicates the days, dates and time a particular resource (human resources/machines/etc.) will work.
 #### Conflict Mgmt.
+
  [5 tech]-(http://smallbusiness.chron.com/5-conflict-management-strategies-16131.html)
  - Accommodating(適應策略)
   The accommodating strategy essentially entails giving the opposing side what it wants.
@@ -217,28 +255,50 @@ https://pmstudycircle.com/2013/10/work-performance-data-wpd-and-work-performance
 <hr>
 
 ## 7.Project Communications Management
-### Change Log, Issue log & Change Request
+
+### Change Request vs Change log vs Issue Log
+- Change Request: A formal proposal to modify any document, deliverable, or baseline.
+  **Change requests include Corrective and preventive actions. **
+
+- Change Log: A comprehensive list of changes made during the project. This typically includes dates of the change and impacts in terms of time, cost, and risk.
+Change Log is an input to "manage stakeholder engagements". Project Management Plan does not describe corrective and/or preventive actions, rather it describes the "Change Management Plan" that provides guidance on how to manage changes. 
+
+- Issue Log: A project document used to document and monitor elements under discussion or in dispute between project stakeholders.
+
 #### 1. If we want any change, we raise change request but after a change request is approved or rejected, result is documented in change log.
+
 Change request is the formal request made to the CCB to approve any changes from the approved plan.
 Once the request is made to the CCB it will be updated in the change log document even if it is approved or rejected for future tracking purpose(with the details).
 In simple terms change log is the document for tracking the change requests.
 
-- [ ] Change Request: A formal proposal to modify any document, deliverable, or baseline.
-- [ ] Change Log: A comprehensive list of changes made during the project. This typically includes dates of the change and impacts in terms of time, cost, and risk.
-- [ ] Issue Log: A project document used to document and monitor elements under discussion or in dispute between project stakeholders.
 
 #### 2.If any issues are observed in manage stakeholder engagement, it is documented in issue log(outout of the process). Issue log is then used as input in control stakeholder engagement process to resolve them.
+
+### Change Log vs Issue log vs Change Request
+- Change Request: A formal proposal to modify any document, deliverable, or baseline.
+ 變更請求：修改任何文檔，可交付成果或基準的正式提案。
+
+- Change Log: A comprehensive list of changes made during the project. This typically includes dates of the change and impacts in terms of time, cost, and risk.
+  更改日誌：項目期間所做更改的綜合列表。 這通常包括變更日期和時間，成本和風險方面的影響。
+
+-  Issue Log: A project document used to document and monitor elements under discussion or in dispute between project stakeholders. 
+   問題日誌：一個項目文檔，用於記錄和監控正在討論的內容或項目利益相關者之間的爭議。
+
 
 <hr>
 
 ## 8.Project Risk Management
 ### Workarounds
+
 - workarounds are responses that were not initially planned, but are required to deal with emerging risks that were previously unidentified or accepted passively.(解決辦法是最初沒有計劃的回應，但需要處理以前不明或被動被接受的新興風險。)
+
 - workarounds are responses to any unidentified risks that occur during your project execution. It also covers the response to risks that you have identified but did not make a plan to manage or accepted passively.
+
 - workarounds are responses to unidentified risks or passively accepted risks if they occur.
+
 - 權變措施(Workaround)係針對專案突然發生之負面風險事件所採取的回應行動，是未經預先規劃的臨時對策處理方案。
 
-### contingency reserve(應急儲備金)
+### contingency reserve(應急儲備金)-known -unknown
 - You manage identified risks, or “known-unknown” (known = identified, unknown = risks), with the Contingency Reserve. This reserve can be measured in either cost or time.
 
 ### How to Calculate the Contingency Reserve
@@ -272,6 +332,7 @@ Dispute resolution :爭議解決http://news.tvbs.com.tw/life/808705
 Lawyer-supported mediation :律師支持的調解
 Party-directed mediation :黨派調解
 Restorative justice:恢復正義
+
 ### PTA (the Point of total assumption)
 PTA = (Ceiling Price – Target Price) / Buyer’s Share Ration + Target Cost
 PTA =[(CP-TP)/SR ]+TC
@@ -296,3 +357,21 @@ source:https://www.izenbridge.com/blog/pmp-exam-point-of-total-assumption/
 source: https://project-management.com/the-halo-effect-and-project-success/
 ### Stakeholder Map
 ![Map](pic/10_stackholder_map.jpg)
+
+
+### Corrective Actions vs Preventive Actions
+
+#### Corrective Actions : 
+- these are actions taken when the project deviates from the scope, schedule, cost or quality plan in order to bring the project performance back to the baselines. Corrective actions are reactive actions.
+These are actions taken when non-conformances have already been detected to rectify the cause of the issue.
+#### Preventive Actions: 
+- these are actions taken when the project is likely to trend away from the scope, schedule, cost or quality plan to ensure the project performance is aligned to the baselines. Preventive actions are proactive actions.
+These are actions taken to prevent issues/problems from occurring in future.
+
+### Issue Log
+2. • 13.3 Manage Stakeholder Engagement (Output)
+7. • 13.4 Control Stakeholder Engagement (Inputs)
+8. • 10.3 Control Communications (Input)
+3. • 9.4 Manage Project Team (Input)
+
+
