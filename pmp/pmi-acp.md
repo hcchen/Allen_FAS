@@ -6,6 +6,119 @@ title: "PMI-ACP 筆記"
 # PMI-ACP 筆記
 
 ## Domain 1：Agile Principles and Mindset (敏捷原則及心態)
+### 9 Tasks(九個任務)
+#### 英文
+1. Act as an advocate for Agile principles with customers and the team to ensure a shared Agile mindset
+2. Create a common understanding of the values and principles of Agile through practising Agile practices and using Agile terminology effectively.
+3. Educate the organization and influence project and organizational processes, behaviors and people to support the change to Agile project management.
+4. Maintain highly visible information radiators about the progress of the projects to enhance transparency and trust.
+5. Make it safe to experiment and make mistakes so that everyone can benefit from empirical learning.
+6. Carry out experiments as needed to enhance creativity and discover efficient solutions.
+7. Collaborate with one another to enhance knowledge sharing as well as removing knowledge silos and bottlenecks.
+8. Establish a safe and respectful working environment to encourage emergent leadership throughself-organization and empowerment.
+9. Support and encourage team members to perform their best by being a servant leader.
+
+#### 中文：
+1. 充當客戶和團隊敏捷原則的倡導者，確保共享敏捷思維
+2. 通過實踐敏捷實踐和有效使用敏捷術語，對敏捷的價值和原則形成共識。
+3. 教育組織並影響項目和組織過程，行為和人員以支持對敏捷項目管理的變更。
+4. 保持高度可見的信息散發者關於項目的進展，以提高透明度和信任。
+5. 安全地進行實驗和犯錯，這樣每個人都可以從實證學習中受益。
+6. 根據需要進行實驗，以提高創造力並發現有效的解決方案。
+7. 相互協作，加強知識共享，消除知識孤島和瓶頸。
+8. 建立一個安全和尊重的工作環境，通過自我組織和賦權來鼓勵緊急領導。
+9. 支持並鼓勵團隊成員通過成為僕人的領導者來發揮最大的作用。
+
+### 四個敏捷宣言 4 Agile Manifesto
+1. Individuals and interactions over Processes and tools
+(個人和互動優於過程和工具)
+3. Working software over Comprehensive documentation
+(工作交付成果優於複雜文件)
+4. Customer collaboration over Contract negotiation
+(客戶協作優於合同談判)
+4. Responding to change over Following a plan
+(回應改變優於按照計劃進行)
+### 12 Agile Manifesto Principles 12個敏捷原則
+#### Provide Value to Customer
+
+1. Customer Satisfaction: Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+- early delivery of products to customer for testing and feedback
+- continuous delivery to let customer know the progress
+- deliver values to the customers by fulfilling the top priority requirements first
+
+2. Welcome Changes: Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.
+- simplify the change control process, no formal documentation and approval required
+- allow fast response to latest changes in external environment to enhance competitive advantage to emerging opportunities
+3. Frequent Delivery: Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+- can release the product to the market faster
+- provide immediate values to the customers by delivering working features
+- the project team activities can be better structured with the fixed delivery timeframe to focus on delivery of value
+
+#### Facilitate Teamwork
+
+4. Collocated Team: Business people and developers must work together daily throughout the project.
+- collocation of team members can foster osmotic communication (with vehicles other than verbal, e.g. gesture, what not being said, etc.)
+- get instant feedback to questions, others at the location can join in the discussion if deem related
+- the whole team can remain focused and work towards a common goal
+5. Motivated Individuals: Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+- team members are able to choose the jobs they are most interested in through self-organization (not through external management influence)
+- the team is empowered to make day-to-day decisions
+- every member is motivated to achieve success
+- vs traditional project management -> micro-management, top-down approach
+6. Face-to-face Conversation: The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+- get direct feedback by going to the source of problem or confusion
+- often via oral communication at the workplace for the benefit of osmotic communication
+- tools like video conferencing can facilitate virtual team conversation
+
+#### Cycle time (定義) & Lead Time on Kanban
+the elapsed time between feature specification and product delivery
+
+#### Lead Time
+- The Lead time is the time from the moment when the request was made by a client and placed on a board to when all work on this item is completed and the request was delivered to the client. So it's the the total time the client is waiting for an item to be delivered.
+
+- 交貨時間是從客戶提出請求並投入董事會的那一刻起，到完成了該項目的所有工作並將請求交付給客戶的時間。 所以這是客戶等待物品交付的總時間。
+
+
+#### Cycle Time 
+- The Cycle time is the amount of time, that the team spent actually working on this item (without the time that the task spent waiting on the board). Therefore, the Cycle time should start being measured, when the item task enters the "working" column, not earlier.
+
+- 週期時間是指團隊花費在實際工作中的時間（沒有任務花費在板上等待的時間）。因此，當物品任務進入「工作列」時，週期時間應該開始測量，而不是更早。
+
+
+#### Deliver Great Products
+
+Working Software: Working software is the primary measure of progress.
+the working software enhance customer satisfaction
+measurements of the working software are necessary to maintain and improve the quality
+the software will be judged on whether it can support the overall project goals
+traditional project management focuses on plans and documentation
+Constant Pace: Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+helps to promote work-life balance among the team members to promote happiness by avoiding burnout or exhaustion
+a happy team is also a motivated and productive team
+the team can respond to changes quickly
+traditional project management would accelerate near deadline
+Continuous Attention: Continuous attention to technical excellence and good design enhances agility.
+agility is the ability to modify, improve and upgrade in a short time
+codes need to be refactored from time to time to enhance agility so that changes to the products can be easily introduced
+time spent on achieving quality code and finishing requirements should be well balanced
+Simplicity: Simplicity – the art of maximizing the amount of work not done – is essential.
+focus on what are essential to create value to the project and customer
+discard any distractors that do not act values (components, process, etc.)
+the simpler the product, the easier to maintain it, the less risks are there to control
+Quest for Better
+Self-Organization: The best architectures, requirements, and designs emerge from self-organizing teams.
+the team knows best how to carry out the work, not the project manager nor human resources department
+higher level of ownership of the product and will be dedicated to project success
+the team becomes experts in how to improve the process and project as they understand the project details
+most significant difference from traditional waterfall project management
+Regular Reflection: At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+need to gather the lessons learned frequently during the project and put back into the next iteration
+“retrospective meeting” as the primary tool – what works and what doesn’t and suggestion / solutions
+changes can be implemented immediately
+traditional project management carries out reflection only at the end of the project/phrase
+
+
+
 ### SM角色的責任
 Scrum Master要扮演牧羊犬的角色，避免羊群（developers）受到「大野狼」的騷擾
 
@@ -90,6 +203,25 @@ Adaptation in this context is about continuous improvement, the ability to adapt
 2. Forward looking(往前看)
 3. Competent(能力)
 4. Inspiring(激勵)
+
+### Decomposing of Project Requirement
+1.Epics(史詩): large user stories that span one or more iterations
+2.Feature(功能）: attributes of the product
+3.User Story（故事）: decomposition of  a feature
+=> small chunk  of bussiness functionality within a feature that  involves roughly 1-3 days work/ or 40 hours work)
+4.Task（工作): smallest element  of the decomposition
+### 3C of User Story
+1.Card
+2.Conversation
+3.Confirmation
+
+### INVEST of User Story
+1.indepentent:can be prioritized in any order
+2.negotiable: can be dicuss between PO and team based on cost and function
+3.valuable:no techical language,have obvious value
+4.Estimate:can be estimated
+5.Small:4-40 hours work
+6.Testable:can be test
 
 
 ## Domain 2：Value-Driven Delivery(價值導向)
