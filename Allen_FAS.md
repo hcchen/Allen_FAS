@@ -18,7 +18,7 @@ title: 艾倫．可行．行動．能行
 ##### Kafka
 
 ### CS Programming
-#### Scala
+#### [Scala](https://docs.scala-lang.org/)
 #### [HackerRank](https://www.hackerrank.com/)
 #### [Kaggle](https://www.kaggle.com/)
 #### [LeeCode](https://leetcode.com/)
