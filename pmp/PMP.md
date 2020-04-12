@@ -329,7 +329,7 @@ Mediation :調解
 Negotiation :談判
 Collaborative law :合作法
 Conflict resolution :衝突解決
-Dispute resolution :爭議解決http://news.tvbs.com.tw/life/808705
+Dispute resolution :爭議解決
 Lawyer-supported mediation :律師支持的調解
 Party-directed mediation :黨派調解
 Restorative justice:恢復正義
@@ -338,7 +338,7 @@ Restorative justice:恢復正義
 PTA = (Ceiling Price – Target Price) / Buyer’s Share Ration + Target Cost
 PTA =[(CP-TP)/SR ]+TC
 SR: Share Rario(Custemer Cost Overrun Sharing Ratio )
-source:https://www.izenbridge.com/blog/pmp-exam-point-of-total-assumption/
+source: (https://www.izenbridge.com/blog/pmp-exam-point-of-total-assumption/)
 
 <hr>
 
