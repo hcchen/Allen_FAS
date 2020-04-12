@@ -19,10 +19,11 @@
 auto: true
 
 # Permalinks
-# Use of `relative_permalinks` ensures post links from the index work properly.
-# /:categories/:year/:month/:day/:title/
+# https://jekyllrb.com/docs/permalinks/
+## pretty : /:categories/:year/:month/:day/:title/
 permalink:           pretty
-relative_permalinks: true
+# Use of `relative_permalinks` ensures post links from the index work properly.
+#relative_permalinks: true
 
 # Setup
 title:               艾倫．可行．行動．能行(Allen．Feasible．Action．Success)<br>
@@ -68,17 +69,18 @@ gems:
 #        layout: page
 
 collections:
-  - pmp:
+    pmp:
     output: true
-defaults:
-  -
-    scope:
-      path: 'pmp'
-      type: 'pmp'
-    values:
-          layout: 'default'
-      category: 'pmp'
-      author: 'Allen Chen'
+    permalink: /:collection/:name
+#defaults:
+#  -
+#    scope:
+#      path: 'pmp'
+#      type: 'pmp'
+#    values:
+#          layout: 'default'
+#      category: 'pmp'
+#      author: 'Allen Chen'
 
 theme: jekyll-theme-cayman
 ## https://medium.com/@vilcins/syntax-highlight-with-rouge-in-jekyll-6bf9e45f9dda
