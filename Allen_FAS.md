@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 艾倫．可行．行動．能行
+permalink: Allen_FAS.md
 ---
 
 
