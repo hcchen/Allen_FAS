@@ -4,7 +4,7 @@ title: 艾倫．可行．行動．能行
 ---
 
 
-# 艾倫．[行](http://dict.variants.moe.edu.tw/yitia/fra/fra03699.htm)．行．行
+# 艾倫．[行](http://www.shuowen.org/view/1265)．行．行
 
 ## 艾倫．可行．行動．能行
 ## Allen．Feasible．Action．Success
@@ -23,7 +23,7 @@ title: 艾倫．可行．行動．能行
 #### [Kaggle](https://www.kaggle.com/)
 #### [LeeCode](https://leetcode.com/)
 
-### Vanet
+###  Vanet
 #### Dr.T
 
 ### Dr.Farmer
