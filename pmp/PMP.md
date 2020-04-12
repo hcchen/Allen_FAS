@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "PMP 筆記"
+permalink: /pmp/PMP/
 ---
 
 # PMP 筆記
@@ -21,7 +22,7 @@ These processes let you track the work that is being done, review and report on 
 #### Closing
 Finally, these processes let you finalize all the tasks in the other Groups when you get to the point to close the project or phase.
 ##### Close Type of Project Termination
-1.Termination by integration:deploy the people to other project 
+1.Termination by integration:deploy the people to other project
 2.Termination by addition :project closed beco's involve the ongoing operation
 - Successful cases: project outputs integrated and/or
 used as input for another project/production
@@ -33,7 +34,7 @@ used as input for another project/production
 (objectives not met, superseded, not profitable)
 
 ##### kill points
-Reviews conducted at the end of the project phase on the key deliverables and project performance, to determine approval for continuance into the next phase and corrective actions, are called 「kill points」, 「stage gates」 or 「phase exits」. 
+Reviews conducted at the end of the project phase on the key deliverables and project performance, to determine approval for continuance into the next phase and corrective actions, are called 「kill points」, 「stage gates」 or 「phase exits」.
 
 
 ##### 1. Project a temporary ==endeavor== undertaken to create a unique product or service (endeavor:an attempt to achieve a goal)
@@ -221,7 +222,7 @@ You can see that the work performance information is an output of various contro
 - Examples of work performance data are the actual cost spent, actual time elapsed, etc. Examples of work performance information are Cost Variance, Schedule Variance, Cost Performance Index, and Schedule Performance Index, etc.
 資料來源：https://pmstudycircle.com/2013/10/work-performance-data-wpd-and-work-performance-information-wpi/
 
-Work Performance Data is raw data of the observations of your project,(current project statusex :EV/AC etc) 
+Work Performance Data is raw data of the observations of your project,(current project statusex :EV/AC etc)
 and the Work Performance Information is the comparison between the actual data and the planned data.
 These two are the backbone to your performance report and are very important communication tools. This data will help you monitor project progress and compare with the planned progress. They also help you in forecasting, and you can take corrective and preventive action if needed.
 
@@ -261,7 +262,7 @@ Control Procurement
   **Change requests include Corrective and preventive actions. **
 
 - Change Log: A comprehensive list of changes made during the project. This typically includes dates of the change and impacts in terms of time, cost, and risk.
-Change Log is an input to "manage stakeholder engagements". Project Management Plan does not describe corrective and/or preventive actions, rather it describes the "Change Management Plan" that provides guidance on how to manage changes. 
+Change Log is an input to "manage stakeholder engagements". Project Management Plan does not describe corrective and/or preventive actions, rather it describes the "Change Management Plan" that provides guidance on how to manage changes.
 
 - Issue Log: A project document used to document and monitor elements under discussion or in dispute between project stakeholders.
 
@@ -281,7 +282,7 @@ In simple terms change log is the document for tracking the change requests.
 - Change Log: A comprehensive list of changes made during the project. This typically includes dates of the change and impacts in terms of time, cost, and risk.
   更改日誌：項目期間所做更改的綜合列表。 這通常包括變更日期和時間，成本和風險方面的影響。
 
--  Issue Log: A project document used to document and monitor elements under discussion or in dispute between project stakeholders. 
+-  Issue Log: A project document used to document and monitor elements under discussion or in dispute between project stakeholders.
    問題日誌：一個項目文檔，用於記錄和監控正在討論的內容或項目利益相關者之間的爭議。
 
 
@@ -361,10 +362,10 @@ source: https://project-management.com/the-halo-effect-and-project-success/
 
 ### Corrective Actions vs Preventive Actions
 
-#### Corrective Actions : 
+#### Corrective Actions :
 - these are actions taken when the project deviates from the scope, schedule, cost or quality plan in order to bring the project performance back to the baselines. Corrective actions are reactive actions.
 These are actions taken when non-conformances have already been detected to rectify the cause of the issue.
-#### Preventive Actions: 
+#### Preventive Actions:
 - these are actions taken when the project is likely to trend away from the scope, schedule, cost or quality plan to ensure the project performance is aligned to the baselines. Preventive actions are proactive actions.
 These are actions taken to prevent issues/problems from occurring in future.
 

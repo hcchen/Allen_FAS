@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "PMI-ACP 筆記"
+permalink: /pmp/pmi-adp/
 ---
 
 # PMI-ACP 筆記
@@ -79,7 +80,7 @@ the elapsed time between feature specification and product delivery
 - 交貨時間是從客戶提出請求並投入董事會的那一刻起，到完成了該項目的所有工作並將請求交付給客戶的時間。 所以這是客戶等待物品交付的總時間。
 
 
-#### Cycle Time 
+#### Cycle Time
 - The Cycle time is the amount of time, that the team spent actually working on this item (without the time that the task spent waiting on the board). Therefore, the Cycle time should start being measured, when the item task enters the "working" column, not earlier.
 
 - 週期時間是指團隊花費在實際工作中的時間（沒有任務花費在板上等待的時間）。因此，當物品任務進入「工作列」時，週期時間應該開始測量，而不是更早。
@@ -143,13 +144,13 @@ Scrum Master要扮演牧羊犬的角色，避免羊群（developers）受到「�
 
 - Timeboxing also encourages teams to start getting work done immediately. Temporal Motivation Theory shows that time constraints are a critical component of getting work done efficiently.  In Scrum, the sooner you can inspect a deliverable, the sooner you can adapt it.
 
-### Sprint:(衝刺) 
+### Sprint:(衝刺)
 - Timeboxing is used to define the length of the Sprint. The Sprint is a timebox of one month or less in which the scrum team will deliver the Sprint goals. At Scrum Inc., our Sprint timebox is one week and this is what we recommend to teams that we coach.
 
-### Sprint Planning: 
+### Sprint Planning:
 - When a team launches, they establish the timebox for the Sprint Planning meeting. As noted in the Scrum Guide, a Sprint planning meeting should be timeboxed at 8 hours or less for a one-month Sprint. The shorter the Sprint, the shorter the timebox should be for Sprint Planning. At Scrum Inc., *** we recommend one-week Sprints and a two-hour timebox for Sprint Planning. ***
 
-### Daily Scrum:(衝刺規劃) 
+### Daily Scrum:(衝刺規劃)
 - The Daily Scrum is a timebox of *** 15 minutes for each 24-hour period *** that helps the Scrum Team synchronize activities and make visible any impediments to achieving the Sprint Goal.
 
 ### Sprint Review: (衝刺)-檢視回饋到『輸入的需求端』
@@ -292,7 +293,7 @@ Excite and Delight Your Customers by Using the Kano Model | AgileConnection http
 2. Decide how to exploit the system's constraint(s).(決定如何去應用系統限制)
 3. Subordinate everything else to the above decision(s).(將所有事歸屬至以上決定)
 4. Elevate the system's constraint(s).(提升系統限制)
-5. Warning! If in the previous steps a constraint has been broken, go back to step 1, 
+5. Warning! If in the previous steps a constraint has been broken, go back to step 1,
 but do not allow inertia to cause a system's constraint.
 (警告！ 如果在前面的步驟中約束已被破壞，請返回步驟1，
 但不要讓慣性造成系統的限制)
