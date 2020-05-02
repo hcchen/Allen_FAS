@@ -1,3 +1,9 @@
+# jekyll -version
+# jekyll 4.0.0
+# ruby -v
+# ruby 2.6.3p62 (2019-04-16 revision 67580) [x86_64-darwin18]
+# bundle -v
+ # undler version 2.1.4
 # For Atom build
 # atom:
 #   buildCommand:
@@ -16,7 +22,8 @@
 # 禁用 自定義插件
 # safe: false
 # Clear Cache to Refresh
-auto: true
+# Deprecation: Auto-regeneration can no longer be set from your configuration file(s). Use the --[no-]watch/-w command-line option instead.
+# auto: true
 
 # Permalinks
 # https://jekyllrb.com/docs/permalinks/
@@ -47,8 +54,10 @@ kaggle_url:        https://www.kaggle.com
 leecode_url:       https://leetcode.com
 farmbot_url:       https://farmbot.io/
 # Jekyll plugins
-gems:
-  - jekyll-sitemap
+#        Deprecation: The 'gems' configuration option has been renamed to 'plugins'. Please update your config file accordingly.
+#gems:
+plugins:
+#  - jekyll-sitemap
   - jekyll-paginate
 # Collections Dir
 #collections_dir: data
@@ -82,6 +91,6 @@ collections:
 #      category: 'pmp'
 #      author: 'Allen Chen'
 
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
 ## https://medium.com/@vilcins/syntax-highlight-with-rouge-in-jekyll-6bf9e45f9dda
 #highlighter: rouge

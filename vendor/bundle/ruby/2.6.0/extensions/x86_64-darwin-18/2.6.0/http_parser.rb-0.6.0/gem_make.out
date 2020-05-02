@@ -1,0 +1,16 @@
+current directory: /Users/allen/Dropbox/Code_Section/IdeaProjects/Allen_FAS/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/Users/allen/.rbenv/versions/2.6.3/bin/ruby -I /Users/allen/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20200502-50631-1johojr.rb extconf.rb
+creating Makefile
+
+current directory: /Users/allen/Dropbox/Code_Section/IdeaProjects/Allen_FAS/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /Users/allen/Dropbox/Code_Section/IdeaProjects/Allen_FAS/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/allen/Dropbox/Code_Section/IdeaProjects/Allen_FAS/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20200502-50631-1jfx919
