@@ -19,6 +19,7 @@ permalink: /Allen_FAS/
 ##### Kafka
 
 ### CS Programming
+#### [Python](https://www.python.org/)
 #### [Scala](https://docs.scala-lang.org/)
 #### [HackerRank](https://www.hackerrank.com/)
 #### [Kaggle](https://www.kaggle.com/)
@@ -29,3 +30,9 @@ permalink: /Allen_FAS/
 
 ### Dr.Farmer
 ### [FarmBot](https://farm.bot/) 
+
+<!--
+{% highlight javascript %}
+document.write("JavaScript is a simple language for javatpoint learners");
+{% endhighlight %}
+-->

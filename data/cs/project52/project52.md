@@ -1,11 +1,11 @@
 ---
-layout: page
-title: "2Allen's Project 52"
-permalink: /Allen_FAS/data/project52/
+#layout: page
+#title: "Allen's Project 52"
+#permalink: /project52/
 ---
 # Allen's Project 52
 
-## P1 line bot
+## P1 Line bot
 https://github.com/twtrubiks/line-bot-tutorial
 line bot 搭配 imgur
 https://github.com/twtrubiks/line-bot-imgur-tutorial
@@ -14,7 +14,7 @@ https://github.com/twtrubiks/facebook-messenger-bot-tutorial
 
 
 ## P2 farmbot
-https://farmbot.io/
+[farmbot](https://farmbot.io/)
 
 ## P3
 

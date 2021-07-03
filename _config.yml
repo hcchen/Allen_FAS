@@ -1,33 +1,6 @@
-# jekyll -version
-# jekyll 4.0.0
-# ruby -v
-# ruby 2.6.3p62 (2019-04-16 revision 67580) [x86_64-darwin18]
-# bundle -v
- # undler version 2.1.4
-# For Atom build
-# atom:
-#   buildCommand:
-#     - jekyll
-#     - build
-#     - --option
-#     - --this
-#   buildEnv:
-#     JEKYLL_ENV: development
-#   postDirs:
-#     - _newsletters
-#   defaultPostDir: _posts
-
-# Code Hightlight
-#pygments: true
-# 禁用 自定義插件
-# safe: false
-# Clear Cache to Refresh
-# Deprecation: Auto-regeneration can no longer be set from your configuration file(s). Use the --[no-]watch/-w command-line option instead.
-# auto: true
-
 # Permalinks
 # https://jekyllrb.com/docs/permalinks/
-## pretty : /:categories/:year/:month/:day/:title/
+# pretty : /:categories/:year/:month/:day/:title/
 permalink:           pretty
 # Use of `relative_permalinks` ensures post links from the index work properly.
 #relative_permalinks: true
@@ -47,7 +20,8 @@ author:
   email:             hsiehchang.chen@gmail.com
 
 # Custom vars
-version:             1.6.8
+version:             1.0
+
 # Custom url
 hr_url:            https://www.hackerrank.com
 kaggle_url:        https://www.kaggle.com
@@ -55,47 +29,28 @@ leecode_url:       https://leetcode.com
 farmbot_url:       https://farmbot.io/
 
 # Jekyll plugins
-#Deprecation: The 'gems' configuration option has been renamed to 'plugins'. Please update your config file accordingly.
-#gems:
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+
 # Collections Dir
-#collections_dir: data
-# My custom Collections
-#collections:
-#    - data
-#    data:
-#        output: true
-#        relative_directory: pmp
-#        directory: /data/cs/pmp
-#        permalink: /data/:path/
-
-#    defaults:
-#      - scope:
-#        path: ""
-#        type: data
-#      values:
-#        layout: page
-#collections_dir: my_collections
 collections_dir: data
-
 collections:
     cs:
       output: true
-#    permalink: /:collection/:name
-#defaults:
-#  -
-#    scope:
-#      path: 'pmp'
-#      type: 'pmp'
-#    values:
-#          layout: 'default'
-#      category: 'pmp'
-#      author: 'Allen Chen'
 
-theme: jekyll-theme-cayman
-#theme: jekyll-theme-minimal
+#theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+
+
 ## https://medium.com/@vilcins/syntax-highlight-with-rouge-in-jekyll-6bf9e45f9dda
-#highlighter: rouge
+highlighter: rouge
