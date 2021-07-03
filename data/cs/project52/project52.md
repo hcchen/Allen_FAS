@@ -1,3 +1,8 @@
+---
+layout: page
+title: "2Allen's Project 52"
+permalink: /Allen_FAS/data/project52/
+---
 # Allen's Project 52
 
 ## P1 line bot

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "CCA Spark and Hadoop Developer exam 筆記"
+permalink: /Allen_FAS/ccad/
 ---
 # CCA Spark and Hadoop Developer exam
 

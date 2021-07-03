@@ -1,3 +1,8 @@
+---
+layout: page
+title: "2018 iT 邦幫忙鐵人賽"
+permalink: /Allen_FAS/data/2018ironman/
+---
 # 2018 iT 邦幫忙鐵人賽
 ## Day 1 ITS介紹
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "PMI-ACP 筆記"
-permalink: /pmp/pmi-adp/
+permalink: /Allen_FAS/pmp/
 ---
 
 # PMI-ACP 筆記
