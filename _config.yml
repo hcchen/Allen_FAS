@@ -1,10 +1,11 @@
 # Permalinks
 # https://jekyllrb.com/docs/permalinks/
-# pretty : /:categories/:year/:month/:day/:title/
-permalink:           pretty
+#pretty : /:categories/:year/:month/:day/:title/
+#permalink: /:categories/:year/:month/:day/:title/
+#permalink:           pretty
+permalink: /:year-:month-:day-:title/
 # Use of `relative_permalinks` ensures post links from the index work properly.
 #relative_permalinks: true
-
 # Setup
 title:               艾倫．可行．行動．能行(Allen．Feasible．Action．Success)
 tagline:             'Allen FAS'
@@ -33,6 +34,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
+
 defaults:
   -
     scope:
@@ -40,6 +42,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  -
+    scope:
+      path: "" # any file that's not a post will be a "page" layout by default
+    values:
+      layout: "page"
 
 
 # Collections Dir
@@ -48,9 +55,21 @@ collections:
     cs:
       output: true
 
-#theme: jekyll-theme-cayman
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+#theme: jekyll-theme-minimal
 
 
 ## https://medium.com/@vilcins/syntax-highlight-with-rouge-in-jekyll-6bf9e45f9dda
 highlighter: rouge
+
+# Exclude these files from production site
+
+#exclude:
+#  - CHANGELOG.md
+#  - CNAME
+#  - Gemfile
+#  - Gemfile.lock
+#  - LICENSE
+#  - README.md
+#  - screenshot.png
+#  - docs/
