@@ -8,4 +8,7 @@ source 'https://rubygems.org' do
 	gem 'jekyll-admin', group: :jekyll_plugins
 	gem 'minima', "~> 2.5.1"
 #	gem "rack", ">= 2.1.4"
+	gem 'jekyll-sitemap'
+	gem 'jekyll-admin', group: :jekyll_plugins
+	gem 'minima'
 end
