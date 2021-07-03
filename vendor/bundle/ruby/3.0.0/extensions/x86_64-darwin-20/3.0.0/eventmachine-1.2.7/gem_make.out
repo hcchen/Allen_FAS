@@ -1,0 +1,16 @@
+current directory: /Users/allenchen/GoogleDrive@hsiehchang.chen/Allen_Code/Allen_FAS/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/3.0.1/lib/ruby/3.0.0 -r ./siteconf20210703-92140-obl2n1.rb extconf.rb
+creating Makefile
+
+current directory: /Users/allenchen/GoogleDrive@hsiehchang.chen/Allen_Code/Allen_FAS/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= clean
+
+current directory: /Users/allenchen/GoogleDrive@hsiehchang.chen/Allen_Code/Allen_FAS/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\=
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/allenchen/GoogleDrive@hsiehchang.chen/Allen_Code/Allen_FAS/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20210703-92140-x5k80x

@@ -53,12 +53,14 @@ hr_url:            https://www.hackerrank.com
 kaggle_url:        https://www.kaggle.com
 leecode_url:       https://leetcode.com
 farmbot_url:       https://farmbot.io/
+
 # Jekyll plugins
 #Deprecation: The 'gems' configuration option has been renamed to 'plugins'. Please update your config file accordingly.
 #gems:
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
+
 # Collections Dir
 #collections_dir: data
 # My custom Collections
@@ -76,12 +78,13 @@ plugins:
 #        type: data
 #      values:
 #        layout: page
-collections_dir: my_collections
+#collections_dir: my_collections
+collections_dir: data
 
 collections:
-    pmp:
-    output: true
-    permalink: /:collection/:name
+    cs:
+      output: true
+#    permalink: /:collection/:name
 #defaults:
 #  -
 #    scope:
