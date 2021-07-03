@@ -1,4 +1,4 @@
-# Linix Tips
+# Linux Tips
 ##  How do I grep recursively through .gz files?
 ```sh
 find -name \*.eml.gz -print0 | xargs -0 zgrep "STRING"
@@ -7,3 +7,11 @@ find -name \*.eml.gz -print0 | xargs -0 zgrep "STRING"
 [How do I grep recursively through .gz files?](https://unix.stackexchange.com/questions/187742/how-do-i-grep-recursively-through-gz-files)
 
 ##
+
+##Install Git is to set your user name and email address
+
+```
+$ git config --global user.name "hcchen"
+$ git config --global user.email hcchen@ntu.edu.tw
+
+```
