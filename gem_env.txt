@@ -1,0 +1,147 @@
+RubyGems Environment:
+  - RUBYGEMS VERSION: 3.1.2
+  - RUBY VERSION: 2.6.3 (2019-04-16 patchlevel 62) [x86_64-darwin18]
+  - INSTALLATION DIRECTORY: /Users/allen/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0
+  - USER INSTALLATION DIRECTORY: /Users/allen/.gem/ruby/2.6.0
+  - RUBY EXECUTABLE: /Users/allen/.rbenv/versions/2.6.3/bin/ruby
+  - GIT EXECUTABLE: /usr/local/bin/git
+  - EXECUTABLE DIRECTORY: /Users/allen/.rbenv/versions/2.6.3/bin
+  - SPEC CACHE DIRECTORY: /Users/allen/.gem/specs
+  - SYSTEM CONFIGURATION DIRECTORY: /Users/allen/.rbenv/versions/2.6.3/etc
+  - RUBYGEMS PLATFORMS:
+    - ruby
+    - x86_64-darwin-18
+  - GEM PATHS:
+     - /Users/allen/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0
+     - /Users/allen/.gem/ruby/2.6.0
+  - GEM CONFIGURATION:
+     - :update_sources => true
+     - :verbose => true
+     - :backtrace => false
+     - :bulk_threshold => 1000
+  - REMOTE SOURCES:
+     - https://rubygems.org/
+  - SHELL PATH:
+     - /Users/allen/.rbenv/versions/2.6.3/bin
+     - /usr/local/Cellar/rbenv/1.1.2/libexec
+     - /Users/allen/.rbenv/shims
+     - /Users/allen/miniconda3/bin
+     - /Library/Frameworks/Python.framework/Versions/2.7/bin
+     - /opt/local/bin
+     - /opt/local/sbin
+     - /opt/local/bin
+     - /opt/local/sbin
+     - /Users/allen/.rbenv/shims
+     - /Users/allen/miniconda3/bin
+     - /Library/Frameworks/Python.framework/Versions/2.7/bin
+     - /opt/local/bin
+     - /opt/local/sbin
+     - /opt/local/bin
+     - /opt/local/sbin
+     - /Users/allen/.rbenv/shims
+     - /Users/allen/miniconda3/bin
+     - /Library/Frameworks/Python.framework/Versions/2.7/bin
+     - /opt/local/bin
+     - /opt/local/sbin
+     - /opt/local/bin
+     - /opt/local/sbin
+     - /Users/allen/.rbenv/shims
+     - /Users/allen/miniconda3/bin
+     - /Library/Frameworks/Python.framework/Versions/2.7/bin
+     - /opt/local/bin
+     - /opt/local/sbin
+     - /opt/local/bin
+     - /opt/local/sbin
+     - /Users/allen/.rbenv/shims
+     - /Users/allen/miniconda3/bin
+     - /Library/Frameworks/Python.framework/Versions/2.7/bin
+     - /opt/local/bin
+     - /opt/local/sbin
+     - /opt/local/bin
+     - /opt/local/sbin
+     - /Users/allen/.rbenv/shims
+     - /Users/allen/miniconda3/bin
+     - /Library/Frameworks/Python.framework/Versions/2.7/bin
+     - /opt/local/bin
+     - /opt/local/sbin
+     - /opt/local/bin
+     - /opt/local/sbin
+     - /Users/allen/.rbenv/shims
+     - /Users/allen/miniconda3/bin
+     - /anaconda3/bin
+     - /Library/Frameworks/Python.framework/Versions/2.7/bin
+     - /opt/local/bin
+     - /opt/local/sbin
+     - /opt/local/bin
+     - /opt/local/sbin
+     - /usr/local/bin
+     - /usr/bin
+     - /bin
+     - /usr/sbin
+     - /sbin
+     - /usr/local/go/bin
+     - /opt/X11/bin
+     - /Users/allen/.gem/ruby/2.3.0/bin
+     - /bin
+     - /bin
+     - 
+     - /usr/local/Cellar/hadoop/2.2.0/libexec
+     - /opt/spark-1.2.1/bin
+     - /usr/local/sbin
+     - /Users/allen/miniconda3/bin
+     - /bin
+     - /Users/allen/.rvm/bin
+     - /Users/allen/.gem/ruby/2.3.0/bin
+     - /usr/local/opt/ruby/bin
+     - /usr/local/go/bin
+     - /Users/allen/Dropbox/Code_Section/go
+     - /usr/local/Cellar/hadoop/2.2.0/libexec
+     - /opt/spark-1.2.1/bin
+     - /usr/local/sbin
+     - /Users/allen/miniconda3/bin
+     - /Users/allen/GoogleCloudHD/AllenCS/Flutter/flutter/bin
+     - /Users/allen/.gem/ruby/2.3.0/bin
+     - /usr/local/opt/ruby/bin
+     - /usr/local/go/bin
+     - /Users/allen/Dropbox/Code_Section/go
+     - /usr/local/Cellar/hadoop/2.2.0/libexec
+     - /opt/spark-1.2.1/bin
+     - /usr/local/sbin
+     - /Users/allen/miniconda3/bin
+     - /Users/allen/GoogleCloudHD/AllenCS/Flutter/flutter/bin
+     - /Users/allen/.gem/ruby/2.3.0/bin
+     - /usr/local/opt/ruby/bin
+     - /usr/local/go/bin
+     - /Users/allen/Dropbox/Code_Section/go
+     - /usr/local/Cellar/hadoop/2.2.0/libexec
+     - /opt/spark-1.2.1/bin
+     - /usr/local/sbin
+     - /Users/allen/miniconda3/bin
+     - /Users/allen/GoogleCloudHD/AllenCS/Flutter/flutter/bin
+     - /Users/allen/.gem/ruby/2.3.0/bin
+     - /usr/local/opt/ruby/bin
+     - /usr/local/go/bin
+     - /Users/allen/Dropbox/Code_Section/go
+     - /usr/local/Cellar/hadoop/2.2.0/libexec
+     - /opt/spark-1.2.1/bin
+     - /usr/local/sbin
+     - /Users/allen/miniconda3/bin
+     - /Users/allen/GoogleCloudHD/AllenCS/Flutter/flutter/bin
+     - /Users/allen/.gem/ruby/2.3.0/bin
+     - /usr/local/opt/ruby/bin
+     - /usr/local/go/bin
+     - /Users/allen/Dropbox/Code_Section/go
+     - /usr/local/Cellar/hadoop/2.2.0/libexec
+     - /opt/spark-1.2.1/bin
+     - /usr/local/sbin
+     - /Users/allen/miniconda3/bin
+     - /Users/allen/GoogleCloudHD/AllenCS/Flutter/flutter/bin
+     - /Users/allen/.gem/ruby/2.3.0/bin
+     - /usr/local/opt/ruby/bin
+     - /usr/local/go/bin
+     - /Users/allen/Dropbox/Code_Section/go
+     - /usr/local/Cellar/hadoop/2.2.0/libexec
+     - /opt/spark-1.2.1/bin
+     - /usr/local/sbin
+     - /Users/allen/miniconda3/bin
+     - /Users/allen/GoogleCloudHD/AllenCS/Flutter/flutter/bin

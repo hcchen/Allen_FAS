@@ -33,7 +33,7 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               艾倫．可行．行動．能行(Allen．Feasible．Action．Success)<br>
+title:               艾倫．可行．行動．能行(Allen．Feasible．Action．Success)
 tagline:             'Allen FAS'
 description:         'A reserved <a href="https://hcchen.github.io/Allen_FAS/" target="_blank">Allen FAS</a>  Blog  made by <a href="https://twitter.com/hcchen1113" target="_blank">@allen</a>.'
 url:                 https://hcchen.github.io/Allen_FAS
@@ -47,17 +47,17 @@ author:
   email:             hsiehchang.chen@gmail.com
 
 # Custom vars
-version:             1.0.1
+version:             1.6.8
 # Custom url
 hr_url:            https://www.hackerrank.com
 kaggle_url:        https://www.kaggle.com
 leecode_url:       https://leetcode.com
 farmbot_url:       https://farmbot.io/
 # Jekyll plugins
-#        Deprecation: The 'gems' configuration option has been renamed to 'plugins'. Please update your config file accordingly.
+#Deprecation: The 'gems' configuration option has been renamed to 'plugins'. Please update your config file accordingly.
 #gems:
 plugins:
-#  - jekyll-sitemap
+  - jekyll-sitemap
   - jekyll-paginate
 # Collections Dir
 #collections_dir: data
@@ -76,6 +76,7 @@ plugins:
 #        type: data
 #      values:
 #        layout: page
+collections_dir: my_collections
 
 collections:
     pmp:
@@ -91,6 +92,7 @@ collections:
 #      category: 'pmp'
 #      author: 'Allen Chen'
 
-#theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
+#theme: jekyll-theme-minimal
 ## https://medium.com/@vilcins/syntax-highlight-with-rouge-in-jekyll-6bf9e45f9dda
 #highlighter: rouge
