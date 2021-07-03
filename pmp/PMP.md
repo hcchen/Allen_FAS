@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "PMP 筆記"
-permalink: /pmp/
+permalink: /Allen_FAS/pmp/
 ---
 
 # PMP 筆記
