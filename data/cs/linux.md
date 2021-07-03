@@ -13,5 +13,7 @@ find -name \*.eml.gz -print0 | xargs -0 zgrep "STRING"
 ```
 $ git config --global user.name "hcchen"
 $ git config --global user.email hcchen@ntu.edu.tw
+[Getting Started - First-Time Git Setup](
+https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 
 ```
