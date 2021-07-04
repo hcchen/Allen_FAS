@@ -1,12 +1,10 @@
 # Permalinks
 # https://jekyllrb.com/docs/permalinks/
-#pretty : /:categories/:year/:month/:day/:title/
-#permalink: /:categories/:year/:month/:day/:title/
+# Don't set permalink for paginate work
 #permalink:           pretty
-permalink: /:year-:month-:day-:title/
 # Use of `relative_permalinks` ensures post links from the index work properly.
 #relative_permalinks: true
-# Setup
+
 title:               艾倫．可行．行動．能行(Allen．Feasible．Action．Success)
 tagline:             'Allen FAS'
 description:         'A reserved <a href="https://hcchen.github.io/Allen_FAS/" target="_blank">Allen FAS</a>  Blog  made by <a href="https://twitter.com/hcchen1113" target="_blank">@allen</a>.'
@@ -24,10 +22,10 @@ author:
 version:             1.0
 
 # Custom url
-hr_url:            https://www.hackerrank.com
-kaggle_url:        https://www.kaggle.com
-leecode_url:       https://leetcode.com
-farmbot_url:       https://farmbot.io/
+hr_url:              https://www.hackerrank.com
+kaggle_url:          https://www.kaggle.com
+leecode_url:         https://leetcode.com
+farmbot_url:         https://farmbot.io/
 
 # Jekyll plugins
 plugins:
@@ -35,41 +33,13 @@ plugins:
   - jekyll-paginate
 
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  -
-    scope:
-      path: "" # any file that's not a post will be a "page" layout by default
-    values:
-      layout: "page"
-
-
-# Collections Dir
-collections_dir: data
-collections:
-    cs:
-      output: true
-
 theme: jekyll-theme-cayman
-#theme: jekyll-theme-minimal
 
 
 ## https://medium.com/@vilcins/syntax-highlight-with-rouge-in-jekyll-6bf9e45f9dda
-highlighter: rouge
+highlighter:         rouge
 
-# Exclude these files from production site
-
-#exclude:
-#  - CHANGELOG.md
-#  - CNAME
-#  - Gemfile
-#  - Gemfile.lock
-#  - LICENSE
-#  - README.md
-#  - screenshot.png
-#  - docs/
+#Set the time zone for site generation
+timezone:            Asia/Taipei
+#Enable the experimental incremental build feature. Incremental build only re-builds posts and pages that have changed, resulting in significant performance improvements for large sites, but may also break site generation in certain cases.
+incremental:          false
