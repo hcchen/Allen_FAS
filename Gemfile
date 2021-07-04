@@ -8,6 +8,6 @@ source 'https://rubygems.org' do
 	gem 'jekyll-admin', group: :jekyll_plugins
 	gem 'minima', "~> 2.5.1"
 	#gem 'backports', "~> 3.21.0"
+	#gem 'jekyll-assets', '~> 3.0'
 	#gem 'rack', "~> 2.1.4"
-	gem 'jekyll-assets', '~> 3.0'
 end
