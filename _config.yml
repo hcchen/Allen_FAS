@@ -1,9 +1,6 @@
 # Permalinks
-# https://jekyllrb.com/docs/permalinks/
-# Don't set permalink for paginate work
+# https://jekyllrb.com/docs/permalinks/ Don't set permalink for paginate work
 #permalink:           pretty
-# Use of `relative_permalinks` ensures post links from the index work properly.
-#relative_permalinks: true
 
 title:               艾倫．可行．行動．能行(Allen．Feasible．Action．Success)
 tagline:             'Allen FAS'
@@ -32,9 +29,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
-
+# Jekyll theme
 theme: jekyll-theme-cayman
-
 
 ## https://medium.com/@vilcins/syntax-highlight-with-rouge-in-jekyll-6bf9e45f9dda
 highlighter:         rouge
