@@ -31,7 +31,8 @@ plugins:
 
 # Jekyll theme
 #theme: jekyll-theme-cayman
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: minima
 
 ## https://medium.com/@vilcins/syntax-highlight-with-rouge-in-jekyll-6bf9e45f9dda
 highlighter:         rouge

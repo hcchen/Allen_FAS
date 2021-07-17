@@ -5,6 +5,7 @@ source 'https://rubygems.org' do
 	gem 'jekyll', "~> 3.9.0"
 	gem 'github-pages', "~> 215"
 	gem 'jekyll-sitemap', "~> 1.4.0"
+	#https://github.com/jekyll/jekyll-admin
 	gem 'jekyll-admin', group: :jekyll_plugins
 	gem 'minima', "~> 2.5.1"
 	#gem 'backports', "~> 3.21.0"
