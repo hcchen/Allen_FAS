@@ -2,6 +2,18 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../Python/Mx.Ada"
+		},
+		{
+			"path": "../Python/IThome_Test"
+		},
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../Python/iThome13"
 		}
 	],
 	"settings": {
